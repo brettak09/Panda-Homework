@@ -26,6 +26,6 @@ Displayed below in descending order:
 - Jupyter Notebook
 - Python
 
-#### Modulas
+#### Modules
 - Numpy
 - Pandas, Read CSV
