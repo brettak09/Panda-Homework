@@ -19,5 +19,13 @@ Displayed below in descending order:
     - Griffin High School
     - Wilson High School
 
+####The lower performing schools have spent more per student spend than the top five performing schools.
 
 ### Technologies Used
+
+- Jupyter Notebook
+- Python
+
+#### Modulas
+- Numpy
+- Pandas, Read CSV
