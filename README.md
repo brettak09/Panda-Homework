@@ -1,5 +1,12 @@
 # Python Pandas Project
 
-### turn .docx file into read mean and create template
+### Overview
 
-### one more note
+
+### Purpose/Objective
+
+
+### Conclusion
+
+
+### Technologies Used
