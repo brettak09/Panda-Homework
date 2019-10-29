@@ -10,6 +10,14 @@ Objective is to use Python Pandas library to display core understainding of the 
 
 ### Conclusion
 
+####The below schools have the highest combine passing rate of 70% or above.  
+
+Displayed below in descending order:
+    - Cabrera High School
+    - Thomas High School
+    - Pena High School
+    - Griffin High School
+    - Wilson High School
 
 
 ### Technologies Used
